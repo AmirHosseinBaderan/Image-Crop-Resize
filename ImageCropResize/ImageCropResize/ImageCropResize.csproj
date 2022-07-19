@@ -6,9 +6,4 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Aspose.Imaging" Version="22.7.0" />
-  </ItemGroup>
-
 </Project>
